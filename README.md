@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoPhong-Corporation-Official
 - 👀 I’m interested in making apps and games
 - 🌱 I’m currently learning C++ and C#
-- My favourite is create programs :)
+- My favourite language is C# :)
 - Please subscribe for me ^ ^
 - youtube.com/@lophongcorporationofficial
 
